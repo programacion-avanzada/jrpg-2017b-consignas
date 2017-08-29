@@ -1,6 +1,6 @@
 # Trabajo Práctico - primera entrega
 
-Se deberá dejar funcionando el proyecto (en sus tres módulos). Asimismo se deberá revisar toda documentación incluida con el código, y actualizarla.
+Se deberá dejar el proyecto (en sus tres módulos) funcionando en sus computadoras. Asimismo se deberá revisar toda documentación incluida con el código, y actualizarla.
 
 ## Metodología de trabajo
 
