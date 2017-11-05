@@ -1,4 +1,4 @@
-# Trabajo Práctico - ultima entrega
+# Trabajo Práctico - última entrega
 
 Esta vez nos pondremos al día, e implementaremos el último módulo del juego.
 
